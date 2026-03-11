@@ -11,6 +11,14 @@ p{
     background-color: white;
 }
 h3{
-    color:blueviolet;
+    color:blue;
     background-color: blueviolet;
+}
+h4{
+    color:pink;
+    background-color:orange;
+}
+button{
+    color:brown;
+    background-color: blue;
 }
